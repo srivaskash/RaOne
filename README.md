@@ -3,7 +3,7 @@ Just another KuchBhi
 
 Hi G-One,
 
-I can make changes in your master brances. If you can create branches form me then I will commit by branch only.
+I can make changes in your master branch. If you can create a new branch form me then I will commit my branch only.
 
 
 Thanks,
